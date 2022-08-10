@@ -41,7 +41,7 @@ double* convulution(double a[], double b[],int a_size,int b_size)
 int main()
 {
 	FILE *fp;
-	fp = fopen("input.txt","w");
+	fp = fopen("values.txt","w");
 	int n=6;
 	int k=20;
 	double *x,*y;

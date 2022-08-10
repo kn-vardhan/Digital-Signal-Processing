@@ -7,9 +7,10 @@ import matplotlib.pyplot as plt
 
 x=np.array([1.0,2.0,3.0,4.0,2.0,1.0])
 k = 20
-f = open("input.txt","r");
-content = f.read()
-y = [float(i) for i in content.split()]
+f = open("values.txt","r");
+content = f.read().split()
+y = list(map(float, content))
+
 
 #subplots
 plt.subplot(2, 1, 1)
