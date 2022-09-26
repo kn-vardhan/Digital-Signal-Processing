@@ -1,32 +1,93 @@
 #include <stdio.h>
-#include <stdbool.h>
-#include <math.h>
 #include <stdlib.h>
+#include <math.h>
 #include <complex.h>
-#include <time.h>
-#define EPS 1e-6
 
-complex *myfft(int n, complex *a) {
-    if (n == 1) return a;
-    complex *g = (complex *)malloc(n/2*sizeof(complex));
-    complex *h = (complex *)malloc(n/2*sizeof(complex));
-    for (int i = 0; i < n; i++) {
-        if (i%2) h[i/2] = a[i];
-        else g[i/2] = a[i];
-    }
-    g = myfft(n/2, g);
-    h = myfft(n/2, h);
-    for (int i = 0; i < n; i++) a[i] = g[i%(n/2)] + cexp(-I*2*M_PI*i/n)*h[i%(n/2)];
-    free(g); free(h);
-    return a;
+#define dc double complex 
+
+dc *fft(dc *signal, int N);
+dc *ifft(dc *X, int N);
+dc *convolution(dc *a, int n, dc *b, int m);
+dc cexp(double complex z);
+
+dc *fft(dc *signal, int N) {
+	if (N == 1) {
+		return signal;
+	}
+	dc *f1 = malloc(N/2 * sizeof(*f1));
+	dc *f2 = malloc(N/2 * sizeof(*f2));
+	for (int i = 0; i < N/2; i++) {
+		f1[i] = signal[2*i];
+		f2[i] = signal[2*i + 1];
+	}
+	dc *F1 = fft(f1, N/2);
+	dc *F2 = fft(f2, N/2);
+	dc *X = malloc(N * sizeof(*X));
+	for (int i = 0; i < N/2; i++) {
+		X[i] = 	F1[i] + cexp(-2 * I * M_PI * i / N) * F2[i];
+		X[i + N/2] = F1[i] - cexp(-2 * I * M_PI * i / N) * F2[i];
+	}
+	return X;
 }
 
-int main() {
-    int n = 8;
-    complex *a = (complex *)malloc(sizeof(complex)*n);
-    a[0] = 1.0, a[1] = 2.0, a[2] = 3.0, a[3] = 4.0, a[4] = 2.0, a[5] = 1.0, a[6] = 0.0, a[7] = 0.0;
-    a = myfft(n, a);
-    for (int i = 0; i < n; i++) printf("X(%d) = %lf + %lfj\n", i, creal(a[i]), cimag(a[i]));
-    free(a);
-    return 0;
+dc *ifft(dc *X, int N) {
+	
+	if (N == 1) 
+	{
+		return X;
+	}
+
+	dc *F1 = malloc(N/2 * sizeof(*F1));
+	dc *F2 = malloc(N/2 * sizeof(*F2));
+
+	for (int i = 0; i < N/2; i++) 
+	{
+		F1[i] = X[2*i];
+		F2[i] = X[2*i + 1];
+	}
+
+	dc *f1 = fft(F1, N/2);
+	dc *f2 = fft(F2, N/2);
+
+	dc *x = malloc(N * sizeof(*x));
+
+	for (int i = 0; i < N/2; i++) 
+	{
+		x[i] = 	0.5 * (f1[i] + cexp(2 * I * M_PI * i / N) * f2[i]);
+		x[i + N/2] = 0.5 * (f1[i] - cexp(2 * I * M_PI * i / N) * f2[i]);
+	}
+	
+	return x;
+}
+
+dc *convolution(dc *x, int nx, dc *h, int nh) 
+{
+	int ny = nx + nh - 1;
+	dc *y = malloc(ny * sizeof(*y));
+
+	for (int n = 0; n < ny; n++) 
+	{
+		for (int k = 0; k < nx; k++) 
+		{
+			if (n - k >= 0 && n - k < nh)
+			{
+				y[n] = x[k] * h[n-k];
+			}
+		}
+	}
+
+	return y;
+}
+
+int main() 
+{
+	FILE *fp = fopen("fft.dat", "w");
+	double complex x[8] = {1, 2, 3, 4, 2, 1, 0, 0};
+	double complex *X = fft(x, 8);
+	for (int i = 0; i < 8; i++) {
+		printf("%lf %lf\n", creal(X[i]), cimag(X[i]));
+		fprintf(fp, "%lf\n", creal(X[i]));
+	}
+	fclose(fp);
+	return 0;
 }
