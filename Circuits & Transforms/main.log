@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.20)  26 SEP 2022 19:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.1.20)  2 NOV 2022 16:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -587,147 +587,30 @@ File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/polynom/polynom.sty
-Package: polynom 2017/07/17 0.19 (CH,HA)
-\pld@currstage=\count313
-)
-LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
-07.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/circuitikz/circuitikz.sty
+Package: circuitikz 2021/03/14{} The CircuiTikz circuit drawing package version
+ 1.3.2
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/ot1txr.fd
-File: ot1txr.fd 2000/12/15 v3.1
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count314
-\l__pdf_internal_box=\box59
-)
-(./main.aux)
-\openout1 = `main.aux'.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen257
+\pgfutil@tempdimb=\dimen258
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 107.
-LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-107.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omltxmi.fd
-File: omltxmi.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 107.
-LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-107.
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-li
+sts.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box59
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omstxsy.fd
-File: omstxsy.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 107.
-LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-107.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omxtxex.fd
-File: omxtxex.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 107.
-LaTeX Font Info:    Trying to load font information for U+txexa on input line 1
-07.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxexa.fd
-File: utxexa.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <6> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <6> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <8> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <8> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <9> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <14> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <20> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <20> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <22> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <22> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <24> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 107.
-LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <24> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 107.
-
-
--- Lines per column: 50 (exact).
-LaTeX Info: Redefining \celsius on input line 107.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 107
-.
-
-Package gensymb Warning: Not defining \perthousand.
-
-LaTeX Info: Redefining \ohm on input line 107.
-Package gensymb Info: Using \Omega for \ohm on input line 107.
-
-Package gensymb Warning: Not defining \micro.
-
-(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count315
-\scratchdimen=\dimen257
-\scratchbox=\box60
-\nofMPsegments=\count316
-\nofMParguments=\count317
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count318
-\MPscratchDim=\dimen258
-\MPnumerator=\count319
-\makeMPintoPDFobject=\count320
-\everyMPtoPDFconversion=\toks32
-)
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: subfig package v1.3 is loaded.
-Package caption Info: hyperref package is loaded.
-Package caption Info: listings package is loaded.
-Package caption Info: longtable package is loaded.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
-)
-Package caption Info: End \AtBeginDocument code.
-
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
 (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
@@ -745,7 +628,487 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 \Gin@req@height=\dimen259
 \Gin@req@width=\dimen260
 )
-Package hyperref Info: Link coloring OFF on input line 107.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.c
+ode.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen261
+\pgf@y=\dimen262
+\pgf@xa=\dimen263
+\pgf@ya=\dimen264
+\pgf@xb=\dimen265
+\pgf@yb=\dimen266
+\pgf@xc=\dimen267
+\pgf@yc=\dimen268
+\pgf@xd=\dimen269
+\pgf@yd=\dimen270
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count313
+\c@pgf@countb=\count314
+\c@pgf@countc=\count315
+\c@pgf@countd=\count316
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count317
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.d
+ef
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count318
+\pgfsyssoftpath@bigbuffer@items=\count319
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen271
+\pgfmath@count=\count320
+\pgfmath@box=\box60
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count321
+)) (/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen272
+\pgf@picmaxx=\dimen273
+\pgf@picminy=\dimen274
+\pgf@picmaxy=\dimen275
+\pgf@pathminx=\dimen276
+\pgf@pathmaxx=\dimen277
+\pgf@pathminy=\dimen278
+\pgf@pathmaxy=\dimen279
+\pgf@xx=\dimen280
+\pgf@xy=\dimen281
+\pgf@yx=\dimen282
+\pgf@yy=\dimen283
+\pgf@zx=\dimen284
+\pgf@zy=\dimen285
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen286
+\pgf@path@lasty=\dimen287
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen288
+\pgf@shorten@start@additional=\dimen289
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box61
+\pgf@hbox=\box62
+\pgf@layerbox@main=\box63
+\pgf@picture@serial@count=\count322
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen290
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen291
+\pgf@pt@y=\dimen292
+\pgf@pt@temp=\dimen293
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen294
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen295
+\pgf@sys@shading@range@num=\count323
+\pgf@shadingcount=\count324
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box64
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box65
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen296
+\pgf@nodesepend=\dimen297
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen298
+\pgffor@skip=\dimen299
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count325
+\pgfplotmarksize=\dimen300
+)
+\tikz@lastx=\dimen301
+\tikz@lasty=\dimen302
+\tikz@lastxsaved=\dimen303
+\tikz@lastysaved=\dimen304
+\tikz@lastmovetox=\dimen305
+\tikz@lastmovetoy=\dimen306
+\tikzleveldistance=\dimen307
+\tikzsiblingdistance=\dimen308
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count326
+\tikznumberofchildren=\count327
+\tikznumberofcurrentchild=\count328
+\tikz@fig@count=\count329
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count330
+\pgfmatrixcurrentcolumn=\count331
+\pgf@matrix@numberofcolumns=\count332
+)
+\tikz@expandcount=\count333
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowinset=\dimen309
+\pgfarrowlength=\dimen310
+\pgfarrowwidth=\dimen311
+\pgfarrowlinewidth=\dimen312
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarybending.code.tex
+File: tikzlibrarybending.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulebending.co
+de.tex
+File: pgfmodulebending.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/modules/pgfmodulenonlineart
+ransformations.code.tex
+File: pgfmodulenonlineartransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgftransformnonlinearflatness=\dimen313
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibrarycurvili
+near.code.tex
+File: pgflibrarycurvilinear.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@curvilinear@time@a=\dimen314
+\pgf@curvilinear@length@a=\dimen315
+\pgf@curvilinear@length@b=\dimen316
+\pgf@curvilinear@length@c=\dimen317
+\pgf@curvilinear@length@d=\dimen318
+)
+\pgf@arrows@the@rigidity=\dimen319
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibraryfpu.code.tex
+(/usr/local/texlive/2021/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.cod
+e.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+\pgf@circ@count@a=\count334
+\pgf@circ@count@b=\count335
+\pgf@circ@count@c=\count336
+\pgf@circ@res@up=\dimen320
+\pgf@circ@res@down=\dimen321
+\pgf@circ@res@zero=\dimen322
+\pgf@circ@res@left=\dimen323
+\pgf@circ@res@right=\dimen324
+\pgf@circ@res@other=\dimen325
+\pgf@circ@res@step=\dimen326
+\pgf@circ@res@temp=\dimen327
+\pgf@circ@Rlen=\dimen328
+\pgf@circ@scaled@Rlen=\dimen329
+\pgfstartlinewidth=\dimen330
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircutils.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircpath.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
+\pgf@circ@res@count=\count337
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircmultipoles.te
+x) (/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
+\pgfcirc@labelshift=\dimen331
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/circuitikz/pgfcircflow.tex))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+LaTeX Font Info:    Trying to load font information for OT1+txr on input line 7
+4.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/ot1txr.fd
+File: ot1txr.fd 2000/12/15 v3.1
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count338
+\l__pdf_internal_box=\box70
+)
+(./main.aux
+
+LaTeX Warning: Label `fig:lap-ckt' multiply defined.
+
+
+LaTeX Warning: Label `fig:lap-ckt' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 74.
+LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
+74.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omltxmi.fd
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 74.
+LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
+74.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omstxsy.fd
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 74.
+LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
+74.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/omxtxex.fd
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 74.
+LaTeX Font Info:    Trying to load font information for U+txexa on input line 7
+4.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxexa.fd
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <6> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <6> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <8> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <8> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <9> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <9> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <14> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <20> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <20> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <22> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <22> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <24> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <24> not available
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 74.
+
+-- Lines per column: 50 (exact).
+LaTeX Info: Redefining \celsius on input line 74.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 74.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 74.
+Package gensymb Info: Using \Omega for \ohm on input line 74.
+
+Package gensymb Warning: Not defining \micro.
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count339
+\scratchdimen=\dimen332
+\scratchbox=\box71
+\nofMPsegments=\count340
+\nofMParguments=\count341
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count342
+\MPscratchDim=\dimen333
+\MPnumerator=\count343
+\makeMPintoPDFobject=\count344
+\everyMPtoPDFconversion=\toks44
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 74.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -757,562 +1120,152 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count321
+\c@section@level=\count345
 )
-LaTeX Info: Redefining \ref on input line 107.
-LaTeX Info: Redefining \pageref on input line 107.
-LaTeX Info: Redefining \nameref on input line 107.
+LaTeX Info: Redefining \ref on input line 74.
+LaTeX Info: Redefining \pageref on input line 74.
+LaTeX Info: Redefining \nameref on input line 74.
  (./main.out) (./main.out)
-\@outlinefile=\write3
-\openout3 = `main.out'.
+\@outlinefile=\write4
+\openout4 = `main.out'.
 
-\c@lstlisting=\count322
-\c@theorem=\count323
-\c@problem=\count324
-\c@proposition=\count325
-\c@lemma=\count326
-\c@example=\count327
-\c@definition=\count328
-\c@rem=\count329
- (./main.toc
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
+\c@lstlisting=\count346
+\c@theorem=\count347
+\c@problem=\count348
+\c@proposition=\count349
+\c@lemma=\count350
+\c@example=\count351
+\c@definition=\count352
+\c@rem=\count353
+ (./main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
 
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 45
+2.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 4
-.
+52.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 4
-.
+52.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 4
-.
+52.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 4
-.
+52.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
-))
-\tf@toc=\write4
-\openout4 = `main.toc'.
+)
+<figs/ckt.jpg, id=27, 1748.5325pt x 642.4pt>
+File: figs/ckt.jpg Graphic file (type jpg)
+<use figs/ckt.jpg>
+Package pdftex.def Info: figs/ckt.jpg  used on input line 475.
+(pdftex.def)             Requested size: 252.0pt x 92.58199pt.
+ [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
-93.
+
+ <./figs/ckt.jpg>]
+<figs/lap-ckt.jpg, id=63, 2547.5175pt x 1128.215pt>
+File: figs/lap-ckt.jpg Graphic file (type jpg)
+<use figs/lap-ckt.jpg>
+Package pdftex.def Info: figs/lap-ckt.jpg  used on input line 532.
+(pdftex.def)             Requested size: 252.0pt x 111.58861pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<figs/2_7.png, id=65, 462.528pt x 346.896pt>
+File: figs/2_7.png Graphic file (type png)
+<use figs/2_7.png>
+Package pdftex.def Info: figs/2_7.png  used on input line 569.
+(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 576.
+
+(./codes/2_7.cir)
+Underfull \hbox (badness 10000) in paragraph at lines 609--611
+
+ []
+
+[2 <./figs/lap-ckt.jpg> <./figs/2_7.png>]
+<figs/3_4.png, id=107, 462.528pt x 346.896pt>
+File: figs/3_4.png Graphic file (type png)
+<use figs/3_4.png>
+Package pdftex.def Info: figs/3_4.png  used on input line 663.
+(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
+ (./codes/3_5.cir) [3 <./figs/3_4.png>]
+Underfull \vbox (badness 2205) has occurred while \output is active []
+
+
+Underfull \vbox (badness 3872) has occurred while \output is active []
+
+ [4]
+LaTeX Font Info:    Trying to load font information for TS1+txr on input line 7
+87.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-Underfull \hbox (badness 7777) in paragraph at lines 212--226
-[]\OT1/txr/m/n/12 You will find a spec-tro-gram at [][]$https :
- []
-
-
-Underfull \hbox (badness 5374) in paragraph at lines 212--226
-\OT1/txr/m/n/12 / / academo . org / demos / spectrum-[]analyzer$[][]. Up-
- []
-
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 230.
-(./codes/remove_band_noise.py)
-Underfull \hbox (badness 10000) in paragraph at lines 239--242
-[]\OT1/txr/m/n/12 The out-put of the python script
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--242
-\OT1/txr/m/n/12 in Prob-lem []2.3[] is the au-dio file
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 239--242
-\OT1/txr/m/n/12 Sound[]With[]ReducedNoise.wav. Play
- []
-
-
-Underfull \hbox (badness 6927) in paragraph at lines 239--242
-\OT1/txr/bx/n/12 Solution: \OT1/txr/m/n/12 The key strokes as well as
- []
-
-
-Underfull \vbox (badness 6204) has occurred while \output is active []
-
- [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-<./figs/xnyn.pdf, id=104, 462.52798pt x 346.89601pt>
-File: ./figs/xnyn.pdf Graphic file (type pdf)
-<use ./figs/xnyn.pdf>
-Package pdftex.def Info: ./figs/xnyn.pdf  used on input line 266.
-(pdftex.def)             Requested size: 252.0pt x 189.00429pt.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 288.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 288.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [2 <./figs/xnyn.pdf>]
-
-LaTeX Warning: Command \j invalid in math mode on input line 398.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 398.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 400.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 400.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 403.
-
-<./figs/dtft.pdf, id=194, 462.52798pt x 346.89601pt>
-File: ./figs/dtft.pdf Graphic file (type pdf)
-<use ./figs/dtft.pdf>
-Package pdftex.def Info: ./figs/dtft.pdf  used on input line 411.
-(pdftex.def)             Requested size: 252.0pt x 189.00429pt.
-
-LaTeX Warning: Command \j invalid in math mode on input line 412.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 412.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 426.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 426.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 426.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 426.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 426.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 426.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--429
-
- []
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 434.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 434.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 434.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 434.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 442.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 442.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 448.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 448.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 448.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 448.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [3 <./figs/dtft.pdf>]
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 454.
-
-
-Underfull \vbox (badness 2401) has occurred while \output is active []
-
-<./figs/hn.pdf, id=270, 462.52798pt x 346.89601pt>
-File: ./figs/hn.pdf Graphic file (type pdf)
-<use ./figs/hn.pdf>
-Package pdftex.def Info: ./figs/hn.pdf  used on input line 506.
-(pdftex.def)             Requested size: 252.0pt x 189.00429pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 <./figs/hn.pdf>]
-Overfull \hbox (2.69276pt too wide) detected at line 540
+<figs/4_3.png, id=183, 462.528pt x 346.896pt>
+File: figs/4_3.png Graphic file (type png)
+<use figs/4_3.png>
+Package pdftex.def Info: figs/4_3.png  used on input line 790.
+(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
+ [5 <./figs/4_3.png>]
+Overfull \hbox (4.8554pt too wide) detected at line 869
 []
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 542--545
-
- []
-
-<./figs/hndef.pdf, id=342, 462.52798pt x 346.89601pt>
-File: ./figs/hndef.pdf Graphic file (type pdf)
-<use ./figs/hndef.pdf>
-Package pdftex.def Info: ./figs/hndef.pdf  used on input line 561.
-(pdftex.def)             Requested size: 252.0pt x 189.00429pt.
-<./figs/ynconv.pdf, id=346, 462.52798pt x 346.89601pt>
-File: ./figs/ynconv.pdf Graphic file (type pdf)
-<use ./figs/ynconv.pdf>
-Package pdftex.def Info: ./figs/ynconv.pdf  used on input line 587.
-(pdftex.def)             Requested size: 252.0pt x 189.00429pt.
-[5 <./figs/hndef.pdf> <./figs/ynconv.pdf
-
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./figs/ynconv.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
->]
-
-LaTeX Warning: Command \j invalid in math mode on input line 630.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 640.
-
-<./figs/yndft.pdf, id=454, 462.52798pt x 346.89601pt>
-File: ./figs/yndft.pdf Graphic file (type pdf)
-<use ./figs/yndft.pdf>
-Package pdftex.def Info: ./figs/yndft.pdf  used on input line 653.
-(pdftex.def)             Requested size: 252.0pt x 189.00429pt.
-<figs/fft-ifft.png, id=457, 462.528pt x 346.896pt>
-File: figs/fft-ifft.png Graphic file (type png)
-<use figs/fft-ifft.png>
-Package pdftex.def Info: figs/fft-ifft.png  used on input line 671.
+(./codes/3_5.cir)
+<figs/4_7.png, id=213, 462.528pt x 346.896pt>
+File: figs/4_7.png Graphic file (type png)
+<use figs/4_7.png>
+Package pdftex.def Info: figs/4_7.png  used on input line 882.
 (pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-[6 <./figs/yndft.pdf> <./figs/fft-ifft.png>]
-<figs/6_5.png, id=532, 462.528pt x 346.896pt>
-File: figs/6_5.png Graphic file (type png)
-<use figs/6_5.png>
-Package pdftex.def Info: figs/6_5.png  used on input line 714.
-(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-<figs/6_6.png, id=534, 462.528pt x 346.896pt>
-File: figs/6_6.png Graphic file (type png)
-<use figs/6_6.png>
-Package pdftex.def Info: figs/6_6.png  used on input line 730.
-(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
- [7 <./figs/6_5.png> <./figs/6_6.png>]
+ [6 <./figs/4_7.png>] (./main.aux)
 
-LaTeX Warning: Command \j invalid in math mode on input line 777.
+LaTeX Warning: There were multiply-defined labels.
 
-
-LaTeX Warning: Command \j invalid in math mode on input line 777.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 777.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 777.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 815--818
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 874.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 874.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 874.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 874.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 874.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 874.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 874.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 874.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [8]
-
-LaTeX Warning: Command \j invalid in math mode on input line 878.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 878.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 883.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 882--885
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1136.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1141.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1141.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1141.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1141.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1147.
-
-
-Overfull \hbox (9.13892pt too wide) detected at line 1147
-[]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [9]
-Underfull \hbox (badness 10000) in paragraph at lines 1214--1217
-
- []
-
-
-Overfull \hbox (7.96732pt too wide) detected at line 1259
-[]
- []
-
-
-Underfull \vbox (badness 1292) has occurred while \output is active []
-
- [10]
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-LaTeX Warning: Command \j invalid in math mode on input line 1285.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1293--1296
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<figs/imp_response.png, id=674, 462.528pt x 346.896pt>
-File: figs/imp_response.png Graphic file (type png)
-<use figs/imp_response.png>
-Package pdftex.def Info: figs/imp_response.png  used on input line 1318.
-(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-<figs/filt_response.png, id=675, 462.528pt x 346.896pt>
-File: figs/filt_response.png Graphic file (type png)
-<use figs/filt_response.png>
-Package pdftex.def Info: figs/filt_response.png  used on input line 1323.
-(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
-<figs/new_dft.png, id=676, 462.528pt x 346.896pt>
-File: figs/new_dft.png Graphic file (type png)
-<use figs/new_dft.png>
-Package pdftex.def Info: figs/new_dft.png  used on input line 1328.
-(pdftex.def)             Requested size: 252.0pt x 189.00427pt.
- [11 <./figs/imp_response.png>] [12
-
- <./figs/filt_response.png> <./figs/new_dft.png>]
-(./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EDFC8E4B8727EDBA1BB28508A87337F9;882.
+(rerunfilecheck)             Checksum: D3BF9C80BE444E36F35564B54C366050;501.
  ) 
 Here is how much of TeX's memory you used:
- 16014 strings out of 478994
- 239042 string characters out of 5858184
- 720080 words of memory out of 5000000
- 32938 multiletter control sequences out of 15000+600000
- 466139 words of font info for 151 fonts, out of 8000000 for 9000
+ 40192 strings out of 478994
+ 894387 string characters out of 5858184
+ 1600700 words of memory out of 5000000
+ 56974 multiletter control sequences out of 15000+600000
+ 467237 words of font info for 152 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
- 71i,17n,74p,288b,1614s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,14n,130p,422b,1470s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2021/texmf-dist/fonts/type1/public/txfonts/rtcxr.pfb></usr/local/texlive
-/2021/texmf-dist/fonts/type1/public/txfonts/rtxb.pfb></usr/local/texlive/2021/t
-exmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2021/texmf-d
-ist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2021/texmf-dist/fon
-ts/type1/public/txfonts/rtxsc.pfb></usr/local/texlive/2021/texmf-dist/fonts/typ
-e1/public/txfonts/txex.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publ
-ic/txfonts/txsy.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/txfo
-nts/txsya.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/txfonts/tx
-syb.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></
-usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/
-texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (12 pages, 263100 bytes).
+/2021/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2021/
+texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2021/texmf-d
+ist/fonts/type1/public/txfonts/rtxsc.pfb></usr/local/texlive/2021/texmf-dist/fo
+nts/type1/public/txfonts/txex.pfb></usr/local/texlive/2021/texmf-dist/fonts/typ
+e1/public/txfonts/txsy.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/publ
+ic/txfonts/txsyb.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/
+utmb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pf
+b></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/lo
+cal/texlive/2021/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (6 pages, 377165 bytes).
 PDF statistics:
- 817 PDF objects out of 1000 (max. 8388607)
- 585 compressed objects within 6 object streams
- 302 named destinations out of 1000 (max. 500000)
- 125 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 315 PDF objects out of 1000 (max. 8388607)
+ 283 compressed objects within 3 object streams
+ 160 named destinations out of 1000 (max. 500000)
+ 75 words of extra memory for PDF output out of 10000 (max. 10000000)
 
